@@ -1,0 +1,32 @@
+{
+  "tabs": {
+    "home": "Home",
+    "favorites": "Favorites",
+    "settings": "Settings"
+  },
+  "home": {
+    "searchPlaceholder": "Search ingredients (e.g., chicken)",
+    "loading": "Loading recommendations...",
+    "empty": "No results found for \"{{query}}\".",
+    "error": "Failed to fetch recipes.",
+    "findRecipe": "Find a Recipe",
+    "popularIngredients": "Popular Ingredients",
+    "recommendations": "Recommendations"
+  },
+  "recipeDetail": {
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
+    "addFavorite": "Add to Favorites",
+    "removeFavorite": "Remove from Favorites",
+    "error": "Failed to load recipe details."
+  },
+  "favorites": {
+    "empty": "No favorite recipes yet."
+  },
+  "settings": {
+    "title": "Language Settings",
+    "changeToIndonesian": "Change to Indonesian",
+    "changeToEnglish": "Change to English",
+    "currentLanguage": "Current language is {{lang}}."
+  }
+}

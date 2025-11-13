@@ -1,0 +1,32 @@
+{
+  "tabs": {
+    "home": "Beranda",
+    "favorites": "Favorit",
+    "settings": "Pengaturan"
+  },
+  "home": {
+    "searchPlaceholder": "Cari bahan (mis: ayam)",
+    "loading": "Memuat resep rekomendasi...",
+    "empty": "Tidak ada hasil untuk \"{{query}}\".",
+    "error": "Gagal mengambil resep.",
+    "findRecipe": "Cari Resep",
+    "popularIngredients": "Bahan Populer",
+    "recommendations": "Rekomendasi Resep"
+  },
+  "recipeDetail": {
+    "ingredients": "Bahan-bahan",
+    "instructions": "Instruksi",
+    "addFavorite": "Tambah ke Favorit",
+    "removeFavorite": "Hapus dari Favorit",
+    "error": "Gagal memuat detail resep."
+  },
+  "favorites": {
+    "empty": "Belum ada resep favorit."
+  },
+  "settings": {
+    "title": "Pengaturan Bahasa",
+    "changeToIndonesian": "Ubah ke Bahasa Indonesia",
+    "changeToEnglish": "Ubah ke Bahasa Inggris",
+    "currentLanguage": "Bahasa saat ini adalah {{lang}}."
+  }
+}
